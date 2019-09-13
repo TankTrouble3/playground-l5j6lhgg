@@ -5,3 +5,5 @@
 
 <body>
 <title>Website title </title>
+min-width: 630x
+
