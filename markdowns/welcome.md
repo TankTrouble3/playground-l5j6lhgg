@@ -4,7 +4,8 @@
 <head>
 
 <body>
-<centerh1>Website title </centerh1>
+<center>Website title </center>
+
 
 
 
