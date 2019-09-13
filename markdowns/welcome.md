@@ -4,8 +4,7 @@
 <head>
 
 <body>
-#Center
-<h1>Website title </h1>
+<centerh1>Website title </centerh1>
 
 
 
