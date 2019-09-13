@@ -4,6 +4,7 @@
 <head>
 
 <body>
-<title>Website title </title>
-min-width: 630x
+<h1>Website title </h1>
+
+
 
