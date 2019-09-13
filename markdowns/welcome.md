@@ -8,12 +8,12 @@ div.a {
 </style>
 
 <div class="a">
-<h1>Welcome to My Website</h1>
-<p>This website is primarily for the purpose of providing information about things.</p>
+<h1>The Corruption</h1>
+<p>People might think, what does corruption mean? They might think money or maybe politics, but what about drugs? (intro to drugs).</p>
 </div>
 
 <div class="a">
-<h2>Donations Welcome</h2>
+<h2>More info</h2>
 <p>please</p>
 </div>
 
